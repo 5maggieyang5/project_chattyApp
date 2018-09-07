@@ -1,4 +1,4 @@
-#Chatty App Project
+# Chatty App Project
 
 Chatty will allow users to communicate with each other on real-time where the user does not have to reload the page in order to see updates. User can change their username as well.
 
