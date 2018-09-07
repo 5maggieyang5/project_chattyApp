@@ -4,9 +4,9 @@ Chatty will allow users to communicate with each other on real-time where the us
 
 ## Final Product
 
-![“Screenshot when 2 user online”]()
-![“users_can_chat_on_real_time”]()
-![“notification_when_user_change_name”]()
+![“Screenshot when 2 user online”](https://raw.githubusercontent.com/5maggieyang5/project_chattyApp/master/docs/2_users_online.png)
+![“users_can_chat_on_real_time”](https://raw.githubusercontent.com/5maggieyang5/project_chattyApp/master/docs/users_can_chat_on_real_time.png)
+![“notification_when_user_change_name”](https://raw.githubusercontent.com/5maggieyang5/project_chattyApp/master/docs/notification_when_user_change_name.png)
 
 ## Dependencies
 
